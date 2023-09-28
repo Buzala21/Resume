@@ -1,0 +1,370 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+html{
+    font-size: 10px
+    
+}
+.look{
+    width: 25%;
+    position: absolute;
+    height: 150vh;
+   color: #0D1282;
+    
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 100px;
+    background: 0;
+    margin-left: 120px;
+    margin-top: 40px;
+   position: absolute;
+    
+    
+    
+}
+
+h1{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    margin-left: 120px;
+    
+    
+    
+}
+.xazi{
+    position: absolute;
+    margin-top: 45px;
+    width: 21%;
+    margin-left: 57px;
+}
+
+.phone{
+    position: relative;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top:40px;
+    color: white;
+}
+.number{
+    position: absolute;
+    color: white;
+    margin-top: 5px;
+    margin-left:120px;
+    font-size:15px;
+    color:white;
+}
+
+.email{
+    position: relative;
+    margin-left:120px;
+    color:white;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.gmail{
+    position: absolute;
+    margin-left:120px;
+    color:white;
+    margin-top: 5px;
+    font-size:15px;
+
+}
+
+.address{
+    position: relative;
+    margin-left:120px;
+    color:white;
+    font-size: 20px;
+    margin-top: 40px;
+
+}
+.mis{
+    position: absolute;
+    margin-left:120px;
+    color:white;
+    margin-top: 5px;
+    font-size:15px;
+}
+h2{
+    position: relative;
+    color: white;
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.xazi2{
+    position: absolute;
+    margin-top: 15px;
+    width: 21%;
+    margin-left: 57px;
+    
+}
+
+.eh{
+    position: relative;
+    color: white;
+    margin-top: 30px;
+    margin-left: 120px;
+    font-size: 18px;
+}
+.village{
+    position: relative;
+    margin-left: 120px;
+    margin-top: 5px;
+    color: white;
+    font-size: 12px;
+
+
+}
+.expertise{
+    position: absolute;
+    margin-left:120px;
+    color:white;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+
+.xazi3{
+    position: relative;
+    margin-top: 90px;
+    width: 21%;
+    margin-left: 57px;
+}
+.w{
+    position: absolute;
+    color: white;
+    margin-top: 20px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+h3{
+
+    position: relative;
+    color: white;
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 130px;
+}
+
+.xazi4{
+    position: absolute;
+    margin-top: 15px;
+    width: 21%;
+    margin-left: 57px;
+}
+
+.Lang{
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: 30px;
+   
+}
+
+.brt{
+    margin-top: 20px;
+}
+.name{
+    color: black;
+    font-size: 60px;
+    margin-left: 400px;
+    margin-top: 30px;
+    letter-spacing: 10px;
+    position: absolute;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.front{
+    margin-left: 400px;
+position: absolute;
+    margin-top:100px;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 12px;
+
+}
+.ulo{
+    position: absolute;
+    margin-left: 400px;
+        color: black;
+        font-size: 15px;
+        letter-spacing: 3px;
+        margin-top: 140px;
+        
+        
+}
+.exp{
+    position: absolute;
+    margin-left: 400px;
+        color: black;
+        font-size: 30px;
+        letter-spacing: 8px;
+        margin-top: 250px;
+}
+
+.xazi5{
+    position: absolute;
+    margin-top: 300px;
+    width: 100%;
+    margin-left: 400px;
+    color: black;
+
+}
+.slish{
+    position: absolute;
+    margin-top: 310px;
+    height: 105%;
+    margin-left: 400px;
+    color: black;
+
+}
+.co{
+    margin-top: 180px;
+}
+.source{
+    margin: 7px;
+}
+
+.year{
+    position: absolute;
+    margin-left: 420px;
+    color:black;
+    font-size: 20px;
+    margin-top: 310px;
+}
+.year1{
+    position: absolute;
+    margin-left: 820px;
+    color:black;
+    font-size: 20px;
+    margin-top: 310px;
+}
+.member{
+    position: absolute;
+    margin-left: 420px;
+    color:black;
+    font-size: 20px;
+    margin-top: 70px;
+}
+.cer{
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 375px;
+    width: 16%;
+    border: solid 3px;
+    border-color: aqua;
+}
+
+.camp{
+    position: absolute;
+    margin-left: 820px;
+    color:black;
+    font-size: 20px;
+    margin-top: 335px;
+}
+.camp1{
+    position: absolute;
+    margin-left: 780px;
+    margin-top: 375px;
+    width: 16%;
+    border: solid 3px;
+    border-color: aqua;
+}
+
+
+.youth{
+    position: absolute;
+    margin-left: 1100px;
+    font-size: 20px;
+    margin-top: 335px;
+}
+.year2{
+    position: absolute;
+    margin-left: 1120px;
+    color:black;
+    font-size: 20px;
+    margin-top: 310px;
+}
+.youth1{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 375px;
+    width: 16%;
+    border: solid 3px;
+    border-color: aqua;
+}
+.year3{
+    position: absolute;
+    margin-left: 430px;
+    color:black;
+    font-size: 20px;
+    margin-top: 570px;
+}
+.advisory{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 600px;
+    margin-left: 420px;
+}
+.advisory1{
+    position: absolute;
+    font-size:17px;
+    margin-top: 640px;
+    margin-left: 420px;
+    width: 60%;
+}
+.xazi6{
+    position: absolute;
+    width: 100%;
+    margin-left: 420px;
+}
+.tech{
+    position: absolute;
+    margin-left: 420px;
+    margin-left: 440px;
+    color:black;
+    font-size: 20px;
+    margin-top: 70px;
+    width: 5%;
+    border-radius: 2000px;
+
+}
+.ref{
+    position: absolute;
+    font-size: 25px;
+    margin-left: 420px;
+    margin-top: 840px;
+}
+.iusto{
+    margin-top: 170px;
+}
+
+.name21{
+    position: absolute;
+    font-size: 18px;
+    margin-top: 900px;
+    margin-left: 420px;
+
+   
+}
+.phone1{
+    position: absolute;
+    font-size: 15px;
+    margin-top: 930px;
+    margin-left: 420px;
+}
+.Email1{
+    position: absolute;
+    font-size: 15px;
+    margin-top: 960px;
+    margin-left: 420px;
+}
